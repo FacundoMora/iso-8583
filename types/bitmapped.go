@@ -6,7 +6,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/mercadolibre/iso-8583/serdes"
+	"github.com/mercadolibre/go-iso8583/serdes"
 )
 
 type BitMapped struct {

@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/mercadolibre/iso-8583/serdes"
-	"github.com/mercadolibre/iso-8583/types"
+	"github.com/mercadolibre/go-iso8583/serdes"
+	"github.com/mercadolibre/go-iso8583/types"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"

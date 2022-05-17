@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/mercadolibre/iso-8583/serdes"
+	"github.com/mercadolibre/go-iso8583/serdes"
 )
 
 // Mastercard Subelement Encoding Scheme type

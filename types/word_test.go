@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/mercadolibre/iso-8583/types"
+	"github.com/mercadolibre/go-iso8583/types"
 
 	"github.com/stretchr/testify/assert"
 )
